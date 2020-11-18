@@ -10,6 +10,10 @@
       <change afterPath="$PROJECT_DIR$/../CreateTableAdvance2/css/table.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CreateTableAdvance2/table.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Create_table_basic/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex2_Temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex3_Show20Fibonacci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex4_FirstNumFiboMod5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day11_PraticeLoop1/ex6_Sum30NumMod7First.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day12_Array1/arrayCaroSimple.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day12_Array1/arrayElement.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day12_Array1/arrayMaxValue.html" afterDir="false" />
@@ -43,13 +47,17 @@
       <change afterPath="$PROJECT_DIR$/../jsEventMouse/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsForLoop/baitap1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsForLoop/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsGamePuzzle/img/cat11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsGamePuzzle/img/cat21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsGamePuzzle/img/panda11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsGamePuzzle/img/panda21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsGamePuzzle/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsIfElse/ex01.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsIfElseIf/login.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsMultiplicationTable/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsNestedLoop/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsOperator/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsOperator/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsSwitchCase/baitap1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsSwitchCase/baitap2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsSwitchCase/baitap3.html" afterDir="false" />
@@ -60,9 +68,13 @@
       <change afterPath="$PROJECT_DIR$/../jsVarTypeOperator/baitap4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsWeightHeight/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jsWhileLoop/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js_CheckPrime/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Create simple form" beforeDir="false" afterPath="$PROJECT_DIR$/../Create simple form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Create-simple-table" beforeDir="false" afterPath="$PROJECT_DIR$/../Create-simple-table" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TaoCV" beforeDir="false" afterPath="$PROJECT_DIR$/../TaoCV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testbaitap4" beforeDir="false" afterPath="$PROJECT_DIR$/../testbaitap4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +90,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kEBx3mx77WsbE5aAOJfmflkhf6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -96,6 +108,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -121,7 +134,10 @@
       <workItem from="1605513979546" duration="46000" />
       <workItem from="1605540769633" duration="465000" />
       <workItem from="1605583084138" duration="2282000" />
-      <workItem from="1605586701919" duration="696000" />
+      <workItem from="1605586701919" duration="1057000" />
+      <workItem from="1605595807092" duration="1365000" />
+      <workItem from="1605599904568" duration="451000" />
+      <workItem from="1605667802263" duration="2035000" />
     </task>
     <servers />
   </component>
